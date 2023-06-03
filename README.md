@@ -1,2 +1,2 @@
 IP 51.250.93.96
-https:/http://api.diplom-kuzmina.nomoredomains.rocks/
+https:/api.diplom-kuzmina.nomoredomains.rocks/
